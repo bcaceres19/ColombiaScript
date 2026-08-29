@@ -6,7 +6,11 @@ para el curso de Lenguajes Formales.
 ## Integrantes
 
 - Nombre del grupo/repositorio: ColombiaScript
-- Integrantes: Brahian Alexander Cáceres Guevara ([@bcaceres19](https://github.com/bcaceres19))
+- Integrantes:
+  - Brahian Alexander Cáceres Guevara ([@bcaceres19](https://github.com/bcaceres19))
+  - David Mauricio Torres García ([@DavidTorres16](https://github.com/DavidTorres16))
+  - Marlon ([@ItzMarlon2](https://github.com/ItzMarlon2))
+  - Sam ([@sams0ft](https://github.com/sams0ft))
 
 ## 1. Dominio del sistema
 
