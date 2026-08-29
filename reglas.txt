@@ -1,0 +1,56 @@
+ColombiaScript - 15 reglas condicionales
+==========================================
+
+Convenciones:
+  Tin  = Y (AND)
+  Tan  = O (OR)
+  Melo = verdadero (true)
+  Paila = falso (false)
+  Eche = entonces / ejecutar la consecuencia
+
+------------------------------------------
+
+1. Si edad >= 18
+   Eche permitir_entrada
+
+2. Si temperatura >= 30
+   Eche encender_ventilador
+
+3. Si saldo <= 0
+   Eche mostrar "Paila, no hay lucas"
+
+4. Si hora >= 22 Tin luz_encendida = Paila
+   Eche encender_luz
+
+5. Si temperatura > 28 Tin aire_encendido = Paila
+   Eche encender_aire
+
+6. Si saldo >= 50000 Tin pago_autorizado = Melo
+   Eche realizar_compra
+
+7. Si esta_lloviendo = Melo Tan hace_frio = Melo
+   Eche llevar_chaqueta
+
+8. Si edad < 18 Tan tiene_permiso = Paila
+   Eche negar_entrada
+
+9. Si deuda > 0 Tin liga > 0
+   Eche pagar_culebra
+
+10. Si intentos >= 3
+    Eche bloquear_acceso
+
+11. Si saldo < 20000 Tan tarjeta_disponible = Melo
+    Eche usar_tarjeta
+
+12. Si taxi_disponible = Melo Tin dinero >= 15000
+    Eche pedir_taxi
+
+13. Si hambre >= 8 Tan comida_disponible = Paila
+    Eche buscar_comida
+
+14. Si permiso = Paila Tin hora >= 21
+    Eche mostrar "Paila nea, el cucho dijo que no"
+
+15. Si proceso_terminado = Melo
+    Eche mostrar "Nombre de Dios, nos pillamos"
