@@ -5,10 +5,8 @@ para el curso de Lenguajes Formales.
 
 ## Integrantes
 
-- Nombre del grupo: _[completar]_
-- Integrantes: _[completar nombre 1]_, _[completar nombre 2]_, _[completar nombre 3]_
-
-> Edita esta sección con el nombre real del grupo y sus integrantes antes de entregar.
+- Nombre del grupo/repositorio: ColombiaScript
+- Integrantes: Brahian Alexander Cáceres Guevara ([@bcaceres19](https://github.com/bcaceres19))
 
 ## 1. Dominio del sistema
 
